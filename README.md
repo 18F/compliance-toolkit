@@ -4,6 +4,7 @@ _Towards a more secure (and automated) future._
 
 ## Project Goals
 
+* Inform project teams of the necessary steps to acquire an ATO
 * Get ATOs completed in fewer hours
 * Reduce the burden on the Information Security team leading up to new projects launching
 * Assure greater security over 18F's projects in the long term
