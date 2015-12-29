@@ -27,5 +27,5 @@ There are several components to the initial phase of 18F's compliance toolkit:
 ## Things we maintain
 
 * [The team Trello board](https://trello.com/b/QYPc32q1/compliance-toolkit)
-* [Before You Ship](https://pages.18f.gov/before-you-ship/)
+* Compliance information in the [Before You Ship](https://pages.18f.gov/before-you-ship/) site (around ATOs, etc.)
 * [The Google Docs folder](https://drive.google.com/a/gsa.gov/folderview?id=0B5fn0WMJaYDnTVctaUgzZm94bnc&usp=sharing) (private)
