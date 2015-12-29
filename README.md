@@ -23,3 +23,9 @@ There are several components to the initial phase of 18F's compliance toolkit:
     * Tool (or combination of tools) should look for dependencies (python packages, ruby gems, etc.) with known vulnerabilities.
 1. Find appropriate tool or combination of tools to perform application-level vulnerability analysis.
 1. Create an MVP of an automated workflow that takes an application through both static analysis and application level analysis and provides actionable feedback.
+
+## Things we maintain
+
+* [The team Trello board](https://trello.com/b/QYPc32q1/compliance-toolkit)
+* Compliance information in the [Before You Ship](https://pages.18f.gov/before-you-ship/) site (around ATOs, etc.)
+* [The Google Docs folder](https://drive.google.com/a/gsa.gov/folderview?id=0B5fn0WMJaYDnTVctaUgzZm94bnc&usp=sharing) (private)
