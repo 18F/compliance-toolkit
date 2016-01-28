@@ -16,6 +16,10 @@ The long-term goal of this project is to end up with an automated "compliance an
 
 There are several components to the initial phase of 18F's compliance toolkit:
 
+### Compliance Concierge Service
+
+We’d like to offer ourselves up to support your ATO efforts. If you have a question about or need help with vulnerability scanning, static code analysis, or the ATO process in general, please reach out to us. Feel free to message us in #compliance-toolkit or tag us in an issue on Github with @18F/ato.
+
 ### Short Term
 
 1. Document the ATO process with exactly:
