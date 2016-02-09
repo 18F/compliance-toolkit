@@ -1,0 +1,117 @@
+---
+# .about.yml project metadata
+#
+# Short name that acts as the project identifier (required)
+name: compliance-toolkit 
+
+# Full proper name of the project (required)
+full_name: Compliance Toolkit
+
+# The type of content in the repo
+# values: app, docs, policy
+type: app
+
+# Describes whether a project team, working group/guild, etc. owns the repo (required)
+# values: guild, working-group, project
+owner_type: project
+
+# Maturity stage of the project (required)
+# values: discovery, alpha, beta, live, sunset, transfer, end
+stage: discovery
+
+# Description of the project
+description: Toward a more secure (and automated) future.
+
+# Tags that describe the project or aspects of the project
+tags:
+- ato
+- compliance
+- testing
+- security
+
+# Should this repo have automated tests? If so, set to `true`. (required)
+# values: true, false
+testable: false
+
+# Team members contributing to the project (required)
+# Items:
+# - github: GitHub user name
+#   id: Internal team identifier/user name
+#   role: Team member's role; leads should be designated as 'lead'
+team:
+- github: afeld
+  id: aidan.feldman
+  role: developer 
+- github: micahsaul 
+  id: micah.saul 
+  role: developer 
+- github: juliaelman
+  id: julia.elman 
+  role: designer 
+- github: davidebest 
+  id: david.best 
+  role: lead 
+
+# Partners for whom the project is developed
+#partners:
+
+# Organizations or individuals who have adopted the project for their own use
+# Items:
+# - id: The name of the organization or individual
+#   url: A URL to the user's version of the project
+#users:
+#- 
+
+# Brief descriptions of significant project developments
+milestones:
+- Project began in January 2016 
+
+# Technologies used to build the project
+stack:
+- Jekyll
+- Concourse.CI
+- OWASP ZAP
+
+# Brief description of the project's outcomes
+impact: The Compliance Toolkit will streamline the ATO process by automating what it can and prioritizing what it can not. It will allow more of the work to be done sooner in the process, shortening the time between project completion and project launch.
+
+# Services used to supply project status information
+# Items:
+# - name: Name of the service
+#   category: Type of the service
+#   url: URL for detailed information
+#   badge: URL for the status badge
+#services:
+#- 
+
+# Licenses that apply to the project and/or its components (required)
+# Items by property name pattern:
+#   .*:
+#     name: Name of the license from the Software Package Data Exchange (SPDX): https://spdx.org/licenses/
+#     url: URL for the text of the license
+licenses:
+  compliance-toolkit:
+    name: CC0-1.0
+    url: https://github.com/18F/compliance-toolkit/blob/master/LICENSE.md
+
+# Blogs or websites associated with project development
+#blog:
+#- 
+
+# Links to project artifacts
+# Items:
+# - url: URL for the link
+#   text: Anchor text for the link
+#   category: Type of the link
+links:
+- url: https://trello.com/b/QYPc32q1/compliance-toolkit
+  text: Trello Board
+  category: process
+
+# URIs for points-of-contact
+# Items:
+# - url: URL for the link
+#   text: Anchor text for the link
+contact:
+- url: mailto:david.best@gsa.gov
+  text: David Best 
