@@ -25,8 +25,9 @@ description: Toward a more secure (and automated) future.
 # Tags that describe the project or aspects of the project
 tags:
 - ato
-  compliance
-  testing
+- compliance
+- testing
+- security
 
 # Should this repo have automated tests? If so, set to `true`. (required)
 # values: true, false
@@ -68,7 +69,8 @@ milestones:
 # Technologies used to build the project
 stack:
 - Jekyll
-  Concourse.CI
+- Concourse.CI
+- OWASP ZAP
 
 # Brief description of the project's outcomes
 impact: The Compliance Toolkit will streamline the ATO process by automating what it can and prioritizing what it can not. It will allow more of the work to be done sooner in the process, shortening the time between project completion and project launch.
