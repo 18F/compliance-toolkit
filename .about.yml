@@ -2,7 +2,7 @@
 # .about.yml project metadata
 #
 # Short name that acts as the project identifier (required)
-name: compliance-toolkit 
+name: compliance-toolkit
 
 # Full proper name of the project (required)
 full_name: Compliance Toolkit
@@ -41,16 +41,16 @@ testable: false
 team:
 - github: afeld
   id: aidan.feldman
-  role: developer 
-- github: micahsaul 
-  id: micah.saul 
-  role: developer 
+  role: developer
+- github: micahsaul
+  id: micah.saul
+  role: developer
 - github: juliaelman
-  id: julia.elman 
-  role: designer 
-- github: davidebest 
-  id: david.best 
-  role: lead 
+  id: julia.elman
+  role: designer
+- github: davidebest
+  id: david.best
+  role: lead
 
 # Partners for whom the project is developed
 #partners:
@@ -60,11 +60,11 @@ team:
 # - id: The name of the organization or individual
 #   url: A URL to the user's version of the project
 #users:
-#- 
+#-
 
 # Brief descriptions of significant project developments
 milestones:
-- Project began in January 2016 
+- Project began in January 2016
 
 # Technologies used to build the project
 stack:
@@ -82,7 +82,7 @@ impact: The Compliance Toolkit will streamline the ATO process by automating wha
 #   url: URL for detailed information
 #   badge: URL for the status badge
 #services:
-#- 
+#-
 
 # Licenses that apply to the project and/or its components (required)
 # Items by property name pattern:
@@ -96,7 +96,7 @@ licenses:
 
 # Blogs or websites associated with project development
 #blog:
-#- 
+#-
 
 # Links to project artifacts
 # Items:
@@ -107,6 +107,9 @@ links:
 - url: https://trello.com/b/QYPc32q1/compliance-toolkit
   text: Trello Board
   category: process
+- url: https://compliance-viewer.18f.gov
+  text: Compliance Viewer
+  category: Dashboard
 
 # URIs for points-of-contact
 # Items:
@@ -114,4 +117,4 @@ links:
 #   text: Anchor text for the link
 contact:
 - url: mailto:david.best@gsa.gov
-  text: David Best 
+  text: David Best
