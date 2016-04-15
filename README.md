@@ -50,20 +50,20 @@ We aim to:
 * [Compliance Viewer](https://github.com/18F/compliance-viewer)
 * [The Google Docs folder](https://drive.google.com/a/gsa.gov/folderview?id=0B5fn0WMJaYDnTVctaUgzZm94bnc&usp=sharing) (private)
 
-### Compliance Masonry Related Links and Data
+### Compliance Masonry related links and data
 
-#### Quick Start Examples
-- [cg-application-ssp-example](https://github.com/18F/cg-application-ssp-example): An setup example for applications built on Cloud.Gov.  
+#### Quick start examples
+- [cg-application-ssp-example](https://github.com/18F/cg-application-ssp-example): A setup example for applications built on Cloud.Gov.  
 
 #### Tooling
 - [Compliance Masonry CLI](https://github.com/opencontrol/compliance-masonry): CLI tool for building docs.  
 - [OpenControl YAML Editor](https://github.com/opencontrol/OpenControl-YAML-editor).  
 - [doc-template](https://github.com/opencontrol/doc-template): A library that extends golang's template engine to docx.  
 
-#### OpenControl Schemas
+#### OpenControl schemas
 - [OpenControl Schemas](https://github.com/opencontrol/schemas): Schemas for data organized in the OpenControl format.  
 
-#### OpenControl Data  
+#### OpenControl data  
 - [AWS Compliance](https://github.com/opencontrol/aws-compliance): Component documentation for AWS.  
 - [CloudFoundry Compliance](https://github.com/opencontrol/cf-compliance): Compliance documentation for Cloud Foundry.  
 - [Cloud.Gov Compliance](https://github.com/18F/cg-compliance): Compliance documentation for Cloud Foundry.  
@@ -71,10 +71,8 @@ We aim to:
 - [FedRAMP Certifications](https://github.com/opencontrol/FedRAMP-Certifications): Certification documentation for FedRAMP.  
 - [NIST-800-53 Standard](https://github.com/opencontrol/NIST-800-53-Standards): Standard documentation for NIST-800-53.  
 
-#### Compliance Documentation 
+#### Compliance documentation 
 - [18F's Security Compliance Procedures](https://github.com/18F/compliance-docs)  
 
-#### Concourse Pipelines
+#### Concourse pipelines
 - [cg-deploy-compliance-documentation](https://github.com/18F/cg-deploy-compliance-documentation): Deployment pipeline for compliance.cloud.gov  
-
-
