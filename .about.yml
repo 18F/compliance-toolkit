@@ -104,8 +104,8 @@ licenses:
 #   text: Anchor text for the link
 #   category: Type of the link
 links:
-- url: https://trello.com/b/QYPc32q1/compliance-toolkit
-  text: Trello Board
+- url: https://github.com/18F/compliance-toolkit#boards
+  text: ZenHub Board
   category: process
 - url: https://compliance-viewer.18f.gov
   text: Compliance Viewer
