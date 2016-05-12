@@ -18,7 +18,7 @@ There are several components to the initial phase of 18F's compliance toolkit:
 
 ### Compliance Concierge Service
 
-We’d like to offer ourselves up to support your ATO efforts. If you have a question about or need help with vulnerability scanning, static code analysis, or the ATO process in general, please reach out to us. Feel free to message us in #compliance-toolkit or tag us in an issue on Github with @18F/ato.
+We’d like to offer ourselves up to support your ATO efforts. If you have a question about or need help with vulnerability scanning, static code analysis, or the ATO process in general, please reach out to us. Feel free to message us in #cloud-gov-highbar or tag us in an issue on Github with @18F/ato.
 
 ### Short Term
 
@@ -43,7 +43,7 @@ We aim to:
 
 ## Things we maintain
 
-* [The team Trello board](https://trello.com/b/QYPc32q1/compliance-toolkit)
+* [The team ZenHub board](https://github.com/18F/compliance-toolkit#boards)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
 * Compliance information in the [Before You Ship](https://pages.18f.gov/before-you-ship/) site (around ATOs, etc.)
 * [Compliance pipelines for Concourse](https://github.com/18F/concourse-compliance-testing)
