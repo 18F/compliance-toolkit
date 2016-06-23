@@ -57,7 +57,6 @@ We aim to:
 
 #### Tooling
 - [Compliance Masonry CLI](https://github.com/opencontrol/compliance-masonry): CLI tool for building docs.  
-- [OpenControl YAML Editor](https://github.com/opencontrol/OpenControl-YAML-editor).  
 - [doc-template](https://github.com/opencontrol/doc-template): A library that extends golang's template engine to docx.  
 
 #### OpenControl schemas
