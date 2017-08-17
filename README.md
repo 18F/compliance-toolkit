@@ -4,6 +4,8 @@ _Towards a more secure (and automated) future._
 
 The long-term goal of this project is to end up with an automated "compliance and risk-assessment" pipeline that does all the grunt work between Compliance Masonry and an Authorizing Official (AO), making the AO's "risk acceptance" sign-off for ATOs a very simple affair. In the meantime, we are working to make the steps to getting an ATO more clear, and enabling any number of people to handle the manual grunt work by following directions.
 
+The ATO process is so frustrating to people that the team has seen multiple people break down as a result. Therefore, **the team's motto is "no more tears"**.
+
 ## Project Goals
 
 * Inform project teams of the necessary steps to acquire an ATO
